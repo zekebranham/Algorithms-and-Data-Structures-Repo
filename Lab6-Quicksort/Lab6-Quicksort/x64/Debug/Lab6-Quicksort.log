@@ -1,0 +1,3 @@
+﻿  Lab6-Quicksort.cpp
+C:\Users\14807\Desktop\VSCode\CSCI 115 Code\Lab6-Quicksort\Lab6-Quicksort\Lab6-Quicksort.cpp(85,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6-Quicksort.vcxproj -> C:\Users\14807\Desktop\VSCode\CSCI 115 Code\Lab6-Quicksort\x64\Debug\Lab6-Quicksort.exe
